@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moses Ayinde @AmMoses
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning ...Software Engineering with the ALX SWEP 2022
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Software development.
 - 📫 How to reach me ...09085203281 (WhatsApp)
 <!---
 AmMoses/AmMoses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
